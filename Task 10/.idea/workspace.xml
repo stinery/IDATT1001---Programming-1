@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa5184dc-4469-4096-8ed1-35596fc2f98a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1S0MUlECggzCGZPSwDdBAFOsQwM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Øving 7/src/Tekstbehandling.java" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.MenyRegisterKlient">
+    <configuration name="MenyRegisterKlient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MenyRegisterKlient" />
+      <module name="Øving 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TuristArrangementRegister" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TuristArrangementRegister" />
+      <module name="Øving 10" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MenyRegisterKlient" />
+        <item itemvalue="Application.TuristArrangementRegister" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa5184dc-4469-4096-8ed1-35596fc2f98a" name="Default Changelist" comment="" />
+      <created>1570696077210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570696077210</updated>
+      <workItem from="1570696081089" duration="8711000" />
+      <workItem from="1570706239644" duration="2369000" />
+      <workItem from="1570709367254" duration="12478000" />
+      <workItem from="1570894808156" duration="19082000" />
+      <workItem from="1571135468149" duration="9015000" />
+      <workItem from="1571313692280" duration="1087000" />
+      <workItem from="1571315596044" duration="10990000" />
+      <workItem from="1571330783049" duration="1943000" />
+      <workItem from="1571381926281" duration="674000" />
+      <workItem from="1571387294502" duration="9356000" />
+      <workItem from="1571487035199" duration="1356000" />
+      <workItem from="1572294602380" duration="549000" />
+      <workItem from="1572513634336" duration="318000" />
+      <workItem from="1572514043566" duration="16189000" />
+      <workItem from="1572536607900" duration="3748000" />
+      <workItem from="1572609352190" duration="150000" />
+      <workItem from="1572812555713" duration="44000" />
+      <workItem from="1572950898341" duration="788000" />
+      <workItem from="1573058544851" duration="31000" />
+      <workItem from="1573058668468" duration="467000" />
+      <workItem from="1573059933198" duration="1684000" />
+      <workItem from="1574276375175" duration="71000" />
+      <workItem from="1574542566023" duration="399000" />
+      <workItem from="1575026310645" duration="56000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
